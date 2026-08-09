@@ -1,5 +1,14 @@
-> :warning: **THIS REPOSITORY IS UNMAINTAINED** :warning:
-> 
+# Mortgage Calculator
+A python project to calculate EMI, interest, and loan balance.
+
+#Features
+- Monthly EMI calculations
+- interest tracking
+- Loan balance tracking
+#Techonologies
+- python
+#How to Run
+- python main.py
 >I was the creator of the Mortgage package and I maintained it from 2018 until version 1.5. The new official source for the Mortgage package is [jlumbroso/mortgage](https://github.com/jlumbroso/mortgage).
 
 Mortgage
